@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TechLounge777
 - 👀 I’m interested in front-end web development. 
 - 🌱 I’m currently learning React, Redux, and TypeScript. 
-- 💞️ I’m looking to collaborate on projects for beginners revolving around JS, React, React+Redux. I would like to expand my junior front-end developer portfolio.  
+- 💞️ I’m looking to collaborate on projects for beginners revolving around JS, React, Redux, and Next.js. I would like to expand my junior front-end developer portfolio.  
 - 📫 How to reach me: mgithub777@gmail.com
 
 <!---
